@@ -180,7 +180,7 @@ return [
         Maatwebsite\Excel\ExcelServiceProvider::class,
 
         Anand\LaravelPaytmWallet\PaytmWalletServiceProvider::class,
-        Riazxrazor\Payumoney\PayumoneyServiceProvider::class,
+        // Riazxrazor\Payumoney\PayumoneyServiceProvider::class,
         Unicodeveloper\Paystack\PaystackServiceProvider::class
     ],
 
